@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Header from "./Header";
-import Notifications from "./notifications";
+import Notifications from "./Notifications";
 
 import RizkyAvatar from "./assets/images/avatar-rizky-hasanuddin.webp";
 import NathanAvatar from "./assets/images/avatar-nathan-peterson.webp";
